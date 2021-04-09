@@ -24,3 +24,10 @@ body{
 .post{
 
 }
+.footer{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    padding: 12px;
+    background-color:darksalmon;
+}
